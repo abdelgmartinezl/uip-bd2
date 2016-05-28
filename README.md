@@ -18,21 +18,21 @@ Capacitar al estudiante en los conocimientos básicos para el planteamiento de e
 
 | SESIÓN | CONTENIDO              | ACTIVIDADES         |
 | ------ | ---------------------- | --------------------|
-| 12 MAY | Presentación del curso |                     |
-| 19 MAY | Sentencias SQL         | Laboratorio No.1    |
-| 26 MAY | Sentencias SQL         | Investigación No.1  |
-| 2 JUN  | Sentencias SQL         | Laboratorio No.2    |
-| 9 JUN  | Sentencias SQL         | Investigación No.2  |
-| 16 JUN | Sentencias SQL         | Laboratorio No.3    |
-| 23 JUN | JSON                   | Investigación No.3  |
-| 30 JUN | JSON                   | Laboratorio No.4    |
-| 7 JUL  | JSON                   | Investigación No.4  |
-| 14 JUL | XML                    | Laboratorio No.5    |
-| 21 JUL | XML                    | Investigación No.5  |
-| 28 JUL | Key/Value              | Laboratorio No.6    |
-| 4 AGO  | Key/Value              | Investigación No.6  |
-| 11 AGO | Key/Value              | Laboratorio No.7    |
-| 18 AGO | Examen final           |                     |
+| 13 MAY | Presentación del curso |                     |
+| 20 MAY | Sentencias SQL         | Laboratorio No.1    |
+| 27 MAY | Sentencias SQL         | Investigación No.1  |
+| 3 JUN  | Sentencias SQL         | Laboratorio No.2    |
+| 10 JUN | Sentencias SQL         | Investigación No.2  |
+| 17 JUN | Sentencias SQL         | Laboratorio No.3    |
+| 24 JUN | JSON                   | Investigación No.3  |
+| 1 JUL  | JSON                   | Laboratorio No.4    |
+| 8 JUL  | JSON                   | Investigación No.4  |
+| 15 JUL | XML                    | Laboratorio No.5    |
+| 22 JUL | XML                    | Investigación No.5  |
+| 29 JUL | Key/Value              | Laboratorio No.6    |
+| 5 AGO  | Key/Value              | Investigación No.6  |
+| 12 AGO | Key/Value              | Laboratorio No.7    |
+| 19 AGO | Examen final           |                     |
 
 ---
 
