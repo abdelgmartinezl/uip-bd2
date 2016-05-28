@@ -1,5 +1,5 @@
 /*
-Creación de Base e Datos
+Creación de Base de Datos
 -------------------------
 Antes de manipular cualquier dato, se necesita una base de datos. Una
 base de datos es un contenedor de datos. Las bases de datos pueden
