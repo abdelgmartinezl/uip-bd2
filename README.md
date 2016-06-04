@@ -22,9 +22,9 @@ Capacitar al estudiante en los conocimientos básicos para el planteamiento de e
 | 20 MAY | Sentencias SQL                   | Laboratorio No.1    |
 | 27 MAY | Sentencias SQL; Variantes SQL    | Investigación No.1  |
 | 3 JUN  | Sentencias SQL                   | Laboratorio No.2    |
-| 10 JUN | Sentencias SQL; Antipatrones SQL | Investigación No.2  |
+| 10 JUN | Sentencias SQL; Transacciones    | Investigación No.2  |
 | 17 JUN | Sentencias SQL                   | Laboratorio No.3    |
-| 24 JUN | JSON; Transacciones              | Investigación No.3  |
+| 24 JUN | JSON; Antipatrones SQL           | Investigación No.3  |
 | 1 JUL  | JSON                             | Laboratorio No.4    |
 | 8 JUL  | JSON                             | Investigación No.4  |
 | 15 JUL | XML                              | Laboratorio No.5    |
