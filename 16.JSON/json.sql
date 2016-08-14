@@ -1,4 +1,6 @@
 /*
+JSON
+----
 JSON es un formato de estructura de datos simple y legible. Es utilizado para
 transmitir data entre un servidor y una aplicación web, como una alternativa a XML.
 
